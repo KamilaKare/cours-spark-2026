@@ -2,7 +2,7 @@
 
 Voici un guide clé en main, clair et concis, que vous pouvez copier-coller directement dans l'énoncé de votre premier TP ou sur le `README.md` de votre dépôt GitHub.
 
----
+
 
 ## 🚀 Guide de démarrage : Votre environnement Spark en 1 clic
 
@@ -37,7 +37,6 @@ df.show()
 3. Cliquez sur **Exécuter** (la petite flèche à gauche de la cellule).
 4. Si on vous demande de choisir un "Kernel", sélectionnez **Python 3.10.x**.
 
----
 
 ### 💡 Astuces utiles pour les étudiants :
 
@@ -45,6 +44,3 @@ df.show()
 * **Arrêt du travail :** Codespaces s'arrête automatiquement si vous ne l'utilisez plus (votre travail est sauvegardé). Vous pourrez le reprendre plus tard via [github.com/codespaces](https://github.com/codespaces).
 * **Quota :** Vous disposez de **60 heures gratuites par mois**, ce qui est largement suffisant pour ce module.
 
----
-
-**Souhaitez-vous que je vérifie si vous avez besoin d'une configuration spécifique pour charger des fichiers CSV ou Parquet volumineux dans ce Codespace ?**
