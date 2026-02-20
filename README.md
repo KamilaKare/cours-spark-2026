@@ -1,4 +1,4 @@
-# cours-spark-2026
+# cours-Big Data-2026
 
 Voici un guide clé en main, clair et concis, que vous pouvez copier-coller directement dans l'énoncé de votre premier TP ou sur le `README.md` de votre dépôt GitHub.
 
