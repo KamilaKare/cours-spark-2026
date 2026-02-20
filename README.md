@@ -4,7 +4,7 @@
 
 
 
-## 🚀 Guide de démarrage : Votre environnement Spark en 1 clic
+## Guide de démarrage : Votre environnement Spark en 1 clic
 
 Pour ce cours, nous allons utiliser **GitHub Codespaces**. Cela vous évite d'installer Java, Python ou Spark sur votre propre ordinateur. Tout se passe dans votre navigateur.
 
